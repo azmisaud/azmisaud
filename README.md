@@ -41,6 +41,26 @@ I'm passionate about coding, solving problems, and continually learning new tech
     <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt=IntelliJ"/>
     <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
   </p>
+
+## Get in Touch
+I'm always open to discussing new projects, creative ideas or opportunities to be part of your vision. Feel free to connect with me!
+
+<p align="center">
+  <a href="mailto:mohammadsaud67@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email"/></a>
+  <a href="https://twitter.com/realazmisaud"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/></a>
+    <a href="https://instagram.com/realazmisaud"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+    </a></p>
+
+## GeeksForGeeks Stats
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/realazmisaud/"><img src="https://geeks-for-geeks-stats-api.vercel.app/?userName=realazmisaud" alt="GFG"/></a>
+</p>
+
+## Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmisaud&theme=radical" alt="GitHub Streak" />
+</p>
 <!--
 **azmisaud/azmisaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
